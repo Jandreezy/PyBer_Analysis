@@ -3,6 +3,7 @@ Analyzing and visualizing ridesharing data with Python.
 ## Overview
 The purpose of this project is performing an analysis of ride sharing data by city type and how they differ in order to improve ride sharing services.
 ## Results
+![image](https://user-images.githubusercontent.com/97491577/152910737-8b5d9210-19ed-4800-87d2-4639cf9f2058.png)
 
 Based on the data that was given to me, I created this data frame sorted by each city type and an overview based on different factors like total rides, drivers, and fares as well as the average of fares per driver and ride.
 By analyzing the this data frame, I have come to a few conclusions
